@@ -1,0 +1,1 @@
+make && sudo rmmod LKM_1 && sudo insmod LKM-1.ko
